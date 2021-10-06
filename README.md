@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-[Restaurant Reservation System](https://final-capstone-reservations-fe.herokuapp.com/dashboard "Restaurant Reservation System")
+[Restaurant Reservation System](https://dashboard.heroku.com/apps/tranquil-mesa-08743 "Restaurant Reservation System")
 
 ## Project Summary
 
