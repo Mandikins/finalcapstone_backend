@@ -10,27 +10,27 @@ A Restaurant Reservation System that is used to keep track of guest reservations
 
 ### The Dashboard
 
-![Image of Dashboard](./images/DashboardNoRes.png
+![Image of Dashboard](https://github.com/Mandikins/finalcapstone_frontend/blob/main/images/DashboardNoRes.PNG?raw=true)
 
 ### Dashboard with Reservation
 
-![Image of Dashboard with Reservations](./images/DashboardWithRes.png)
+![Image of Dashboard with Reservations](https://github.com/Mandikins/finalcapstone_frontend/blob/main/images/DashboardWithRes.PNG?raw=true)
 
 ### Dashboard with Seated Reservation
 
-![Image of Dashboard with Seat Reservation](./images/DashboardWithResSeated.png)
+![Image of Dashboard with Seat Reservation](https://github.com/Mandikins/finalcapstone_frontend/blob/main/images/DashboardWithResSeated.PNG?raw=true)
 
 ### Create new Reservation
 
-![Image of New Reservation](./images/NewReservationScreen.png)
+![Image of New Reservation](https://github.com/Mandikins/finalcapstone_frontend/blob/main/images/NewReservationScreen.PNG?raw=true)
 
 ### Create new Table
 
-![Image of New Table](./images/NewTable.png)
+![Image of New Table](https://github.com/Mandikins/finalcapstone_frontend/blob/main/images/NewTable.PNG?raw=true)
 
 ### Searh for Reservation
 
-![Image of Reservation Search](./images/SearchRes.png)
+![Image of Reservation Search](https://github.com/Mandikins/finalcapstone_frontend/blob/main/images/SearchRes.PNG?raw=true)
 
 ## Tech Stack
 
