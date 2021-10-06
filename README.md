@@ -10,7 +10,7 @@ A Restaurant Reservation System that is used to keep track of guest reservations
 
 ### The Dashboard
 
-![Image of Dashboard](./images/DashboardNoRes.png)
+![Image of Dashboard](./images/DashboardNoRes.png
 
 ### Dashboard with Reservation
 
@@ -41,7 +41,7 @@ This web app was developed using HTML, CSS, JavaScript, BootStrap, React, Expres
 | Route                                | Method | Status Code |                                                         Description |
 | :----------------------------------- | :----: | :---------: | ------------------------------------------------------------------: |
 | /reservations                        |  GET   |     200     |                 Returns a list of reservations for the current date |
-| /reservations?date=####-##-##        |  GET   |     200     |                   Returns a list of reservations for the given date |
+| /reservations?date=####-##-##        |  GET   |     200     |                   Returns a list of reservations for the given date 
 | /reservations                        |  POST  |     201     |                                           Creates a new reservation |
 | /reservations/:reservation_id        |  GET   |     200     |                            Returns the reservation for the given ID |
 | /reservations/:reservation_id        |  PUT   |     200     |                            Updates the reservation for the given ID |
@@ -113,3 +113,4 @@ LOG_LEVEL = info;
 ```
 
 Make sure to grab the frontend from
+[README.md](https://github.com/Mandikins/finalcapstone_backend/files/7289919/README.md)
